@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="28" passed="28">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="0" started-at="2017-02-24T07:04:51Z" finished-at="2017-02-24T07:04:51Z">
+    <groups>
+    </groups>
+  </suite> <!-- Suite -->
+  <suite name="Suite (1)" duration-ms="3153" started-at="2017-02-24T07:03:36Z" finished-at="2017-02-24T07:03:39Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="3153" started-at="2017-02-24T07:03:36Z" finished-at="2017-02-24T07:03:39Z">
+      <class name="com.kayak.testpages.HomePageTest">
+        <test-method status="PASS" signature="beforesuite()[pri:0, instance:com.kayak.testpages.HomePageTest@343f4d3d]" name="beforesuite" is-config="true" duration-ms="11667" started-at="2017-02-23T23:03:24Z" finished-at="2017-02-23T23:03:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforesuite -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.kayak.testpages.HomePageTest@343f4d3d]" name="beforeClass" is-config="true" duration-ms="2" started-at="2017-02-23T23:03:36Z" finished-at="2017-02-23T23:03:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="testCheckIn()[pri:0, instance:com.kayak.testpages.HomePageTest@343f4d3d]" name="testCheckIn" duration-ms="833" started-at="2017-02-23T23:03:36Z" finished-at="2017-02-23T23:03:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCheckIn -->
+        <test-method status="PASS" signature="testCheckOut()[pri:0, instance:com.kayak.testpages.HomePageTest@343f4d3d]" name="testCheckOut" duration-ms="372" started-at="2017-02-23T23:03:37Z" finished-at="2017-02-23T23:03:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCheckOut -->
+        <test-method status="PASS" signature="testHomePageLogo()[pri:0, instance:com.kayak.testpages.HomePageTest@343f4d3d]" name="testHomePageLogo" duration-ms="146" started-at="2017-02-23T23:03:37Z" finished-at="2017-02-23T23:03:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHomePageLogo -->
+        <test-method status="PASS" signature="testWhere()[pri:0, instance:com.kayak.testpages.HomePageTest@343f4d3d]" name="testWhere" duration-ms="119" started-at="2017-02-23T23:03:37Z" finished-at="2017-02-23T23:03:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWhere -->
+        <test-method status="PASS" signature="testcheckRoomGuest()[pri:1, instance:com.kayak.testpages.HomePageTest@343f4d3d]" name="testcheckRoomGuest" duration-ms="449" started-at="2017-02-23T23:03:38Z" finished-at="2017-02-23T23:03:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcheckRoomGuest -->
+        <test-method status="PASS" signature="testsearchbutton()[pri:2, instance:com.kayak.testpages.HomePageTest@343f4d3d]" name="testsearchbutton" duration-ms="1190" started-at="2017-02-23T23:03:38Z" finished-at="2017-02-23T23:03:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testsearchbutton -->
+        <test-method status="PASS" signature="aftersuite()[pri:0, instance:com.kayak.testpages.HomePageTest@343f4d3d]" name="aftersuite" is-config="true" duration-ms="1753" started-at="2017-02-23T23:03:39Z" finished-at="2017-02-23T23:03:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftersuite -->
+      </class> <!-- com.kayak.testpages.HomePageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite (1) -->
+  <suite name="Suite (0)" duration-ms="1369" started-at="2017-02-24T07:03:21Z" finished-at="2017-02-24T07:03:22Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="1369" started-at="2017-02-24T07:03:21Z" finished-at="2017-02-24T07:03:22Z">
+      <class name="com.kayak.testpages.CommonPageTest">
+        <test-method status="PASS" signature="beforesuite()[pri:0, instance:com.kayak.testpages.CommonPageTest@3532ec19]" name="beforesuite" is-config="true" duration-ms="13544" started-at="2017-02-23T23:03:07Z" finished-at="2017-02-23T23:03:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforesuite -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.kayak.testpages.CommonPageTest@3532ec19]" name="beforeClass" is-config="true" duration-ms="2" started-at="2017-02-23T23:03:21Z" finished-at="2017-02-23T23:03:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="testKayakOptions()[pri:0, instance:com.kayak.testpages.CommonPageTest@3532ec19]" name="testKayakOptions" duration-ms="517" started-at="2017-02-23T23:03:21Z" finished-at="2017-02-23T23:03:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testKayakOptions -->
+        <test-method status="PASS" signature="testkayakLogo()[pri:0, instance:com.kayak.testpages.CommonPageTest@3532ec19]" name="testkayakLogo" duration-ms="223" started-at="2017-02-23T23:03:21Z" finished-at="2017-02-23T23:03:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testkayakLogo -->
+        <test-method status="PASS" signature="testmoreOptions()[pri:0, instance:com.kayak.testpages.CommonPageTest@3532ec19]" name="testmoreOptions" duration-ms="586" started-at="2017-02-23T23:03:22Z" finished-at="2017-02-23T23:03:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testmoreOptions -->
+        <test-method status="PASS" signature="aftersuite()[pri:0, instance:com.kayak.testpages.CommonPageTest@3532ec19]" name="aftersuite" is-config="true" duration-ms="1994" started-at="2017-02-23T23:03:22Z" finished-at="2017-02-23T23:03:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftersuite -->
+      </class> <!-- com.kayak.testpages.CommonPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite (0) -->
+  <suite name="Suite (4)" duration-ms="8589" started-at="2017-02-24T07:04:40Z" finished-at="2017-02-24T07:04:48Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="8589" started-at="2017-02-24T07:04:40Z" finished-at="2017-02-24T07:04:48Z">
+      <class name="com.kayak.testpages.PackagesPageTest">
+        <test-method status="PASS" signature="beforesuite()[pri:0, instance:com.kayak.testpages.PackagesPageTest@6500df86]" name="beforesuite" is-config="true" duration-ms="12051" started-at="2017-02-23T23:04:28Z" finished-at="2017-02-23T23:04:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforesuite -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.kayak.testpages.PackagesPageTest@6500df86]" name="beforeClass" is-config="true" duration-ms="838" started-at="2017-02-23T23:04:40Z" finished-at="2017-02-23T23:04:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="testdepartDate()[pri:0, instance:com.kayak.testpages.PackagesPageTest@6500df86]" name="testdepartDate" duration-ms="5763" started-at="2017-02-23T23:04:41Z" finished-at="2017-02-23T23:04:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testdepartDate -->
+        <test-method status="PASS" signature="testdestinationTextBox()[pri:0, instance:com.kayak.testpages.PackagesPageTest@6500df86]" name="testdestinationTextBox" duration-ms="115" started-at="2017-02-23T23:04:46Z" finished-at="2017-02-23T23:04:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testdestinationTextBox -->
+        <test-method status="PASS" signature="testfromTextBox()[pri:0, instance:com.kayak.testpages.PackagesPageTest@6500df86]" name="testfromTextBox" duration-ms="101" started-at="2017-02-23T23:04:47Z" finished-at="2017-02-23T23:04:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testfromTextBox -->
+        <test-method status="PASS" signature="testpackagePageLogo()[pri:0, instance:com.kayak.testpages.PackagesPageTest@6500df86]" name="testpackagePageLogo" duration-ms="149" started-at="2017-02-23T23:04:47Z" finished-at="2017-02-23T23:04:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testpackagePageLogo -->
+        <test-method status="PASS" signature="testreturnDate()[pri:0, instance:com.kayak.testpages.PackagesPageTest@6500df86]" name="testreturnDate" duration-ms="434" started-at="2017-02-23T23:04:47Z" finished-at="2017-02-23T23:04:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testreturnDate -->
+        <test-method status="PASS" signature="testtravelers()[pri:1, instance:com.kayak.testpages.PackagesPageTest@6500df86]" name="testtravelers" duration-ms="503" started-at="2017-02-23T23:04:47Z" finished-at="2017-02-23T23:04:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testtravelers -->
+        <test-method status="PASS" signature="testsearchbutton()[pri:2, instance:com.kayak.testpages.PackagesPageTest@6500df86]" name="testsearchbutton" duration-ms="672" started-at="2017-02-23T23:04:48Z" finished-at="2017-02-23T23:04:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testsearchbutton -->
+        <test-method status="PASS" signature="aftersuite()[pri:0, instance:com.kayak.testpages.PackagesPageTest@6500df86]" name="aftersuite" is-config="true" duration-ms="1653" started-at="2017-02-23T23:04:48Z" finished-at="2017-02-23T23:04:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftersuite -->
+      </class> <!-- com.kayak.testpages.PackagesPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite (4) -->
+  <suite name="Suite (3)" duration-ms="8612" started-at="2017-02-24T07:04:18Z" finished-at="2017-02-24T07:04:26Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="8612" started-at="2017-02-24T07:04:18Z" finished-at="2017-02-24T07:04:26Z">
+      <class name="com.kayak.testpages.CarsPageTest">
+        <test-method status="PASS" signature="beforesuite()[pri:0, instance:com.kayak.testpages.CarsPageTest@598067a5]" name="beforesuite" is-config="true" duration-ms="16580" started-at="2017-02-23T23:04:01Z" finished-at="2017-02-23T23:04:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforesuite -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.kayak.testpages.CarsPageTest@598067a5]" name="beforeClass" is-config="true" duration-ms="6337" started-at="2017-02-23T23:04:18Z" finished-at="2017-02-23T23:04:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="testcarPageLogo()[pri:0, instance:com.kayak.testpages.CarsPageTest@598067a5]" name="testcarPageLogo" duration-ms="141" started-at="2017-02-23T23:04:24Z" finished-at="2017-02-23T23:04:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcarPageLogo -->
+        <test-method status="PASS" signature="testdropOff()[pri:0, instance:com.kayak.testpages.CarsPageTest@598067a5]" name="testdropOff" duration-ms="563" started-at="2017-02-23T23:04:24Z" finished-at="2017-02-23T23:04:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testdropOff -->
+        <test-method status="PASS" signature="testdropOffTime()[pri:0, instance:com.kayak.testpages.CarsPageTest@598067a5]" name="testdropOffTime" duration-ms="379" started-at="2017-02-23T23:04:25Z" finished-at="2017-02-23T23:04:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testdropOffTime -->
+        <test-method status="PASS" signature="testpickUp()[pri:0, instance:com.kayak.testpages.CarsPageTest@598067a5]" name="testpickUp" duration-ms="458" started-at="2017-02-23T23:04:25Z" finished-at="2017-02-23T23:04:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testpickUp -->
+        <test-method status="PASS" signature="testpickUpTime()[pri:0, instance:com.kayak.testpages.CarsPageTest@598067a5]" name="testpickUpTime" duration-ms="403" started-at="2017-02-23T23:04:25Z" finished-at="2017-02-23T23:04:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testpickUpTime -->
+        <test-method status="PASS" signature="testsearchbutton()[pri:0, instance:com.kayak.testpages.CarsPageTest@598067a5]" name="testsearchbutton" duration-ms="116" started-at="2017-02-23T23:04:26Z" finished-at="2017-02-23T23:04:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testsearchbutton -->
+        <test-method status="PASS" signature="testwhereTextBox()[pri:0, instance:com.kayak.testpages.CarsPageTest@598067a5]" name="testwhereTextBox" duration-ms="199" started-at="2017-02-23T23:04:26Z" finished-at="2017-02-23T23:04:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testwhereTextBox -->
+        <test-method status="PASS" signature="aftersuite()[pri:0, instance:com.kayak.testpages.CarsPageTest@598067a5]" name="aftersuite" is-config="true" duration-ms="1621" started-at="2017-02-23T23:04:26Z" finished-at="2017-02-23T23:04:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftersuite -->
+      </class> <!-- com.kayak.testpages.CarsPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite (3) -->
+  <suite name="Suite (2)" duration-ms="6581" started-at="2017-02-24T07:03:53Z" finished-at="2017-02-24T07:03:59Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="6581" started-at="2017-02-24T07:03:53Z" finished-at="2017-02-24T07:03:59Z">
+      <class name="com.kayak.testpages.LoginPageTest">
+        <test-method status="PASS" signature="beforesuite()[pri:0, instance:com.kayak.testpages.LoginPageTest@4dfa3a9d]" name="beforesuite" is-config="true" duration-ms="11702" started-at="2017-02-23T23:03:41Z" finished-at="2017-02-23T23:03:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforesuite -->
+        <test-method status="PASS" signature="beforeclass()[pri:0, instance:com.kayak.testpages.LoginPageTest@4dfa3a9d]" name="beforeclass" is-config="true" duration-ms="1115" started-at="2017-02-23T23:03:53Z" finished-at="2017-02-23T23:03:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method status="PASS" signature="testfbORgooglelogin()[pri:0, instance:com.kayak.testpages.LoginPageTest@4dfa3a9d]" name="testfbORgooglelogin" duration-ms="3" started-at="2017-02-23T23:03:54Z" finished-at="2017-02-23T23:03:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testfbORgooglelogin -->
+        <test-method status="PASS" signature="testKayakLogin(java.lang.String, java.lang.String)[pri:1, instance:com.kayak.testpages.LoginPageTest@4dfa3a9d]" name="testKayakLogin" duration-ms="1462" started-at="2017-02-23T23:03:56Z" data-provider="logindata" finished-at="2017-02-23T23:03:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[a@com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test12]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testKayakLogin -->
+        <test-method status="PASS" signature="testKayakLogin(java.lang.String, java.lang.String)[pri:1, instance:com.kayak.testpages.LoginPageTest@4dfa3a9d]" name="testKayakLogin" duration-ms="681" started-at="2017-02-23T23:03:57Z" data-provider="logindata" finished-at="2017-02-23T23:03:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[j@k]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test45]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testKayakLogin -->
+        <test-method status="PASS" signature="testKayakLogin(java.lang.String, java.lang.String)[pri:1, instance:com.kayak.testpages.LoginPageTest@4dfa3a9d]" name="testKayakLogin" duration-ms="861" started-at="2017-02-23T23:03:58Z" data-provider="logindata" finished-at="2017-02-23T23:03:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sk@jj]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test36]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testKayakLogin -->
+        <test-method status="PASS" signature="testKayakLogin(java.lang.String, java.lang.String)[pri:1, instance:com.kayak.testpages.LoginPageTest@4dfa3a9d]" name="testKayakLogin" duration-ms="631" started-at="2017-02-23T23:03:59Z" data-provider="logindata" finished-at="2017-02-23T23:03:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[d@com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test88]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testKayakLogin -->
+        <test-method status="PASS" signature="aftersuite()[pri:0, instance:com.kayak.testpages.LoginPageTest@4dfa3a9d]" name="aftersuite" is-config="true" duration-ms="1552" started-at="2017-02-23T23:03:59Z" finished-at="2017-02-23T23:04:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftersuite -->
+      </class> <!-- com.kayak.testpages.LoginPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite (2) -->
+</testng-results>

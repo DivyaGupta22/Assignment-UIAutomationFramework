@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite (0)]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="com.kayak.testpages.CommonPageTest">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="testmoreOptions"/>
+          <include name="aftersuite"/>
+          <include name="testKayakOptions"/>
+          <include name="beforesuite"/>
+          <include name="testkayakLogo"/>
+        </methods>
+      </class> <!-- com.kayak.testpages.CommonPageTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite (0)] -->
